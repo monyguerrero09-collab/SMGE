@@ -1,59 +1,28 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# 🌱 GreenTech — Smart Energy Monitoring and Management System (SMEMS)
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+[![InnovaTec](https://img.shields.io/badge/Proyecto-InnovaTec-brightgreen.svg)](#-participación-en-innovatec)
+[![IoT](https://img.shields.io/badge/Hardware-ESP32%20%7C%20Sensores%20IoT-blue.svg)](#-arquitectura-tecnológica)
+[![Status](https://img.shields.io/badge/Estado-Prototipo%20Funcional-success.svg)](#)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-## About Laravel
+> **GreenTech** es un sistema integral de monitoreo, análisis y gestión inteligente de energía eléctrica en el hogar (*Smart Energy Monitoring and Management System - SMEMS*), diseñado para optimizar el consumo eléctrico residencial mediante el uso de sensores ambientales y eléctricos, microcontroladores IoT y una plataforma web con visualización y automatización en tiempo real.
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+---
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+## 📋 Tabla de Contenidos
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+1. [Descripción General](#-descripción-general)
+2. [Participación en InnovaTec y Equipo](#-participación-en-innovatec-y-equipo)
+3. [Características Principales](#-características-principales)
+4. [Arquitectura del Sistema](#-arquitectura-del-sistema)
+5. [Stack Tecnológico](#-stack-tecnológico)
+6. [Metodología de Desarrollo](#-metodología-de-desarrollo)
+7. [Resultados e Impacto Esperado](#-resultados-e-impacto-esperado)
+8. [Instalación y Puesta en Marcha](#-instalación-y-puesta-en-marcha)
+9. [Licencia y Contacto](#-licencia-y-contacto)
 
-## Learning Laravel
+---
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework. You can also check out [Laravel Learn](https://laravel.com/learn), where you will be guided through building a modern Laravel application.
+## 💡 Descripción General
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Redberry](https://redberry.international/laravel-development)**
-- **[Active Logic](https://activelogic.com)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+El desperdicio energético en el ámbito residencial es uno de los principales factores que incrementan el gasto familiar y la huella de carbono. La falta de visibilidad en tiempo real sobre el consumo individual de electrodomésticos dificulta la toma de decisiones informadas.
